@@ -1,45 +1,47 @@
-# About ME 💬 :
+<div align="center">
 
-### - I'm 19 years  old Artificial Intelligence & Data Science Student.
+# Atharva Dahake `Atv`
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhhY294MXNvYzdyZ245enVwb2o1bzQ4Y3o3ZWNoM2hxaXR0Z3I5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OvzMNfWETBoKQ/giphy.gif">
+AI · Solo Full-Stack Dev · Hackathon Regular
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Front-end Web Development
+[x](https://x.com/athrvd7) · [portfolio](https://athrvd7.vercel.app/) · [email](dahakeatharva26@gmail.com)
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Music
+</div>
 
-</br>
-</br>
-</br>
+---
 
+◆ **my usual stack**
 
+* react · typescript · vite · tailwind · node.js/express · python · fastapi · solidity
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+◆ **current work**
 
-<p align="center">
+* **[AI Pulse](#)** — AI news aggregator, scrape-to-digest pipeline: Anakin.io + Gemini 2.5 Flash + FastAPI + React/Vite/Tailwind, Telegram digest distribution.
 
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+* **[EIH — Engineering Intelligence Hub](#)** — RAG-powered codebase intelligence tool, 7-agent architecture, FastAPI, ChromaDB, force-directed dependency graph.
 
-</br>
-</br>
-</br>
+* **[Ghost Job Radar](#)** — Fake job listing detector, FastAPI + React, Mistral AI scoring, SQLite.
 
-# Contact Me :
+* **[WebMind Agent](#)** — Multi-agent developer intelligence dashboard, Gemini 2.5 Flash, SSE streaming, live reasoning trace.
 
-<p>
- </br>
+* **[TrustBite](#)** — Blockchain food supply chain tracker, Polygon Amoy, 4-agent Claude architecture — 🏆 hackathon winner.
 
+◆ **building from zero**
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+I build fast, mostly solo, mostly under deadline. My loop: scope it, ship it, ship next thing. Comfortable across full stack — React frontends, FastAPI/Express backends, Solidity contracts on Polygon, RAG pipelines with ChromaDB, multi-agent orchestration. I treat every hackathon as a chance to test a new stack combo, not just win.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/athrvd7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/athrvd7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/athrvd7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/athrvd7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dahakeatharva26@gmail.com) 
+◆ **currently exploring**
 
+* **Agentic pipelines:** Model allocation strategy across free/open-weight LLMs (Kimi K2, DeepSeek V4 Pro, GLM, Qwen3, MiniMax M3) for multi-agent orchestration.
 
+* **DSA grind:** Striver's A2Z sheet in Java, targeting mid-tier product placements.
 
-*************
+* **Local inference:** Running Qwen3 on M1 MacBook Air via mlx_lm.server.
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=athrvd7&style=flat-square&color=363636&label=profile+views" alt="Profile Views" />
+
+</div>
