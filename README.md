@@ -1,4 +1,7 @@
 <div align="center">
+<img width="1321" height="410" alt="Screenshot 2026-07-06 at 12 15 15 PM" src="https://github.com/user-attachments/assets/1d821594-77fe-40e5-b9e1-e2886c947fb9" />
+
+
 
 # Atharva Dahake `Atv`
 
