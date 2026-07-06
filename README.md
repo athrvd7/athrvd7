@@ -7,7 +7,7 @@
 
 AI · Solo Full-Stack Dev · Hackathon Regular
 
-[x](https://x.com/athrvd7) · [portfolio](https://athrvd7.vercel.app/) · [email](dahakeatharva26@gmail.com)
+[x](https://x.com/athrvd7) · [portfolio](https://atharvawho.vercel.app/) · [email](dahakeatharva26@gmail.com)
 
 </div>
 
